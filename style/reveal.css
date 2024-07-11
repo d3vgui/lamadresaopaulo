@@ -1,0 +1,92 @@
+.bg-text-none, .bg-btn-none{
+  visibility: hidden;
+}
+
+/* section start */
+
+.start-title-none, .start-btn-none{
+  visibility: hidden;
+}
+
+/* section about-us */
+
+.about-us-h5-none,
+.about-us-h2-none,
+.about-us-p-none,
+.about-us-img-none{
+  visibility: hidden;
+}
+
+/* section services */
+
+.services-h5-none,
+.services-h2-none,
+.services-img-none{
+  visibility: hidden;
+}
+
+.services-card-1,
+.services-card-2,
+.services-card-3,
+.services-card-4,
+.services-card-5,
+.services-card-6{
+  visibility: hidden;
+}
+
+.services-btn-none{
+  visibility: hidden;
+}
+
+/* section business */
+
+.business-card-1-none,
+.business-card-2-none,
+.business-card-3-none{
+ visibility: hidden;
+}
+
+.business-btn-none{
+  visibility: hidden;
+}
+
+.business-img-none{
+  visibility: hidden;
+}
+
+/* section financial */
+
+.financial-h5-none,
+.financial-h2-none,
+.financial-img-none{
+  visibility: hidden;
+}
+
+.financial-accordion-1-none,
+.financial-accordion-2-none,
+.financial-accordion-3-none,
+.financial-accordion-4-none{
+  visibility: hidden;
+}
+
+.financial-btn-none{
+  visibility: hidden;
+}
+
+/* section insurance company */
+
+.insurance-company-h5-none,
+.insurance-company-h2-none,
+.insurance-company-p-none
+{
+  visibility: hidden;
+}
+
+/* scetion what */
+
+.what-h5-none,
+.what-h2-none,
+.what-p-none{
+  visibility: hidden;
+}
+

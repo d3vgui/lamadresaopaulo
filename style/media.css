@@ -1,0 +1,151 @@
+@media (max-width: 768px){
+  
+  .container{
+    width: 95%;
+  }
+
+  nav{
+    padding: 10px;
+  }
+
+  header nav .logo-header img {
+    height: 37px;
+    width: fit-content;
+}
+
+  #bg{
+    padding-top: 50px;
+  }
+
+  #bg .text-bg h1 {
+    font-size: 33px;
+}
+
+  #bg .text-bg h3 {
+    font-size: 20px;
+}
+
+#bg .text-bg .btn-contact-us a {
+  padding: 15px 25px;
+}
+
+/* ---- start ----- */
+
+#start {
+  padding-top: 70px;
+}
+
+#start .title-start h2 {
+  font-size: 36px;
+}
+
+#start .title-start p {
+  font-weight: 400;
+}
+
+#start .content-list {
+  gap: 20px;
+}
+
+#start .content-list .list-card h2{
+  font-size: 30px;
+}
+
+#start .content-list .list-card p{
+  font-size: 18px;
+}
+
+#start .btn-contact-us {
+  margin-bottom: 50px;
+}
+
+/* ---- about us ----- */
+
+#about-us .content-right img {
+  height: 380px;
+  margin-top: 30px;
+}
+
+#about-us .content-left p {
+  font-size: 17px;
+}
+
+/* ---- services ----- */
+
+#services {
+  padding: 50px 0;
+}
+
+#services .content-services {
+  flex-direction: column-reverse;
+  align-content: center;
+}
+
+#services .content-right {
+  margin-top: 40px;
+}
+
+#services .card-services {
+  width: 85%;
+}
+
+#services .card-services p {
+  width: 230px;
+  font-size: 19px;
+}
+
+#services .btn-contact-us a {
+  padding: 15px 45px;
+  font-size: 18px;
+}
+
+#services .content-left img {
+  margin-top: 50px;
+}
+
+/* ----- business ----- */
+
+#business .card-services {
+  width: 85%;
+}
+
+#business .card-services p {
+  width: 230px;
+  font-size: 19px;
+}
+
+#business .btn-contact-us a {
+  padding: 15px 45px;
+  font-size: 18px;
+}
+
+/* ----- financial ----- */
+
+#financial {
+  padding: 50px 0;
+}
+
+/* ----- contact ----- */
+
+#contact .content-contact {
+  margin-top: 40px;
+  gap: 40px;
+  flex-direction: column-reverse;
+}
+
+#contact .content-left img {
+  margin-left: 0px;
+}
+
+#contact .content-contact .content-form {
+  width: 100%;
+}
+
+/* ---- footer ----- */
+
+footer .content-footer {
+  flex-direction: column;
+  align-content: center;
+}
+
+}
